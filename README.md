@@ -10,4 +10,6 @@ I am now contemplating adding a relay to each output so I can switch on and off 
 
 I haven't even started writing code for any of this. Talk about putting the horse before the cart.
 
+Thanks to Kaypy for his advice.
+
 Oh erm. CC-BY-SA
